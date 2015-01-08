@@ -1,0 +1,238 @@
+
+
+
+body {
+    font-family: Antic Slab', sans-serif;;
+    height: 100%;
+    width: 100%;
+
+   
+}
+
+   
+
+
+
+
+
+
+
+
+    /*navigation*/
+
+ul {
+            text-align:center;
+            letter-spacing: 1.5px;
+            padding: 5px;
+            font-size: 25px;
+            margin: 0 auto;
+            padding-left: 
+            padding-top:5px;
+            
+           }
+        
+     
+        
+    a {
+            color: rgb(2, 2, 2);
+            text-decoration: none;
+            letter-spacing: 1px;
+            padding: 7px;
+            
+        }
+
+        
+    a:hover {
+            color: rgba(203, 153, 195, 0.88);
+        }
+
+
+    nav {
+           
+        display:table-header-group;
+     
+      
+          
+        }
+
+
+  nav ul li {
+            display:table-cell;
+            padding: 20px;  
+        
+            
+            
+      
+         
+        }
+
+
+
+
+
+
+
+.intro { 
+        color: black;
+        font-family: 'Lisong pro';
+        display: block;
+       text-align: center;
+       font-size: 23px;
+    
+    
+
+    
+}
+
+
+.background {  width: 100%;
+        position: fixed;
+        left: 0px;
+         top: 0px;
+          z-index: -1;
+}
+
+
+
+div { 
+    text-align:left;
+    min-width: 300px;
+    max-width: 900px;
+    margin: 0 auto;
+    margin-top: 140px;
+    
+    
+    
+    }
+
+
+.emphasised { text-decoration: underline;
+               font-family: cursive
+
+
+}
+
+.bio { margin-left: 0 auto;
+        padding-left: 20px;
+        max-width: 900px;
+        margin-top: 400px;
+        
+
+
+
+}
+
+.contact {
+           margin-left: 0;
+            padding-left: 20px;
+            max-width: 250px;
+            margin-top: 10px;
+
+
+
+}
+
+.me { margin-left: 0;
+        padding-left: 20px;
+        max-width: 250px;
+    margin-top: 210px;
+
+
+}
+
+.thetop {  margin-left: 1200px;
+           top:  
+           
+           
+    
+
+}
+
+h2 { font-size: 30px;
+    
+
+}
+
+p { font-size: 20px;
+    letter-spacing: 1.2px;
+    line-height: 1.2em;
+}
+
+/* this is the style for the image gallery*/
+
+.image1 { position: absolute;
+          margin-left: 350px;
+          top: 1650px;
+         
+     
+           
+
+
+}
+.image2 { position: absolute;
+          margin-left: 650px;
+          top: 1650px;
+
+
+
+}
+.image3 { position: absolute;
+          margin-left: 950px;
+          top: 1650px;
+
+
+}
+.image4 { position: absolute;
+          margin-left: 350px;
+           top: 1920px;
+
+
+
+}
+.image5 { position: absolute;
+          margin-left: 650px;
+          top: 1920px;
+
+}
+.image6 { position: absolute;
+          margin-left: 950px;
+          top: 1920px;
+}
+          
+.icon { display: block;
+        margin: 0 auto;
+    padding-bottom: 50px}
+    
+    .twitter { position: absolute;
+               margin-left: 600px;
+               top: 2300px;
+    
+    
+    }
+    
+    .mail { 
+           position: absolute;
+               margin-left: 657px;
+                top: 2300px;
+    
+    }
+    
+    .insta {
+            position: absolute;
+               margin-left: 500px;
+              top: 2300px;
+    
+    
+    }
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+
